@@ -1,1 +1,2 @@
 # Repo_sprint_7
+Este proyecto es una aplicación web que pretende construir y mostrar, ya sea un histograma o un grafico de dispersión, a elección del usuario, que muestre información sobre los anuncios de venta de coches.
